@@ -1,2 +1,2 @@
 # momentum
-Momentum is essentially a Building Operations Manager. Not Building management system. Instead of managing access control, it can log it, and control it, so similar but with many more addons.
+Momentum is essentially a Building Operations Manager. Not Building management system. Instead of managing access control, it can log it, and control it, so similar but with many more addons. While, yes, it does have basic functions such as access management, it also has building safety system monitoring and controls. So, fire alarms, security alarms, access control, cctv, the list goes on and on. And with our adonis AND HD admin addon pack, you can manage your building anywhere anytime. That's momentum. 
